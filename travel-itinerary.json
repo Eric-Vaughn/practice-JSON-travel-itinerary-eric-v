@@ -12,6 +12,10 @@
             "location": "Chicago",
             "arrivalDate": "2027-03-19",
             "departureDate": "2027-03-22",
+            "transportation": {
+                "mode": "roadtrip",
+                "cost": 95
+            },
             "activities": [
                 {
                     "title": "Field Museum",
@@ -27,6 +31,10 @@
             "location": "Mackinaw Island",
             "arrivalDate": "2027-03-22",
             "departureDate": "2027-03-25",
+            "transportation": {
+                "mode": "roadtrip",
+                "cost": 70
+            },
             "activities": [
                 {
                     "title": "Shop & Wander",
@@ -38,7 +46,34 @@
                 },
                 {
                     "title": "Sunset Bicycle Ride around Town",
-                    "time": "8:30 pm"
+                    "time": "8:30 PM"
+                }
+            ]
+        },
+        {
+            "location": "New York",
+            "arrivalDate": "2027-03-25",
+            "departureDate": "2027-03-28",
+            "transportation": {
+                "mode": "flight",
+                "cost": 230
+            },
+            "activities": [
+                {
+                    "title": "Empire State Building",
+                    "time": "9:00 AM"
+                },
+                {
+                    "title": "Statue of Liberty",
+                    "time": "12:00 PM"
+                },
+                {
+                    "title": "Pizza Lunch",
+                    "time": "2:00 PM"
+                },
+                {
+                    "title": "Central Park",
+                    "time": "4:00 PM"
                 }
             ]
         }
