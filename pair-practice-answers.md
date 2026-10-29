@@ -20,3 +20,17 @@ objects for mode (string, e.g., "Flight") and cost (number, e.g., 150.00).
 
 ## Answers
 
+- Nesting: How did you organize the additional details in the traveler
+field, and how does it improve the organization of the data overall?
+    - 
+- Arrays: For the destinations and activities, what data structure
+did you use? What impact did this decision have?
+    - 
+- Scalability: How could this JSON structure be expanded to include
+    - 
+- Real-World Application: How would this data be useful in a travel app
+or API?
+    - 
+
+- Discuss how the addition of the transportation field enhances the data model:
+    - 
